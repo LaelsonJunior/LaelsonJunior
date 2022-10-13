@@ -1,11 +1,11 @@
 ## Olá, Eu sou o Laelson👋
 ### Estou aprendendo HTML5, CSS e JavaScript, mas minha paixão é mais com o SQL
 
-###🔭 No momento estou trabalhando em pojetos pessoais<br>
-###🌱 Aprendendo CSS, HTML5, JavaScript e SQL<br>
-###🤔 Procuro oportunidade para aprender mais sobre HTML5, CSS e JavaScript<br>
-###📫 Entre em contato atraves das minhas redes sociais ou Whatsapp<br>
-###💬 Sou fluente em ingles, mas não tenho muitas oportunidades de praticar<br>
+### 🔭 No momento estou trabalhando em pojetos pessoais<br>
+### 🌱 Aprendendo CSS, HTML5, JavaScript e SQL<br>
+### 🤔 Procuro oportunidade para aprender mais sobre HTML5, CSS e JavaScript<br>
+### 📫 Entre em contato atraves das minhas redes sociais ou Whatsapp<br>
+### 💬 Sou fluente em ingles, mas não tenho muitas oportunidades de praticar<br>
 
 ##
 <div align="center">
@@ -22,7 +22,11 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
-  
+<!--<a target="_blank" href="mailto:">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
+  </a>]
+ -->
+
   <img align="right" alt="img" height="250" src="https://thumbs.gfycat.com/BlaringHarmlessDiscus-max-1mb.gif">
           
 </div>
