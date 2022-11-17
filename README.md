@@ -3,7 +3,7 @@
 
 ### 🔭 No momento estou trabalhando em pojetos pessoais<br>
 ### 🌱 Aprendendo CSS, HTML5, JavaScript e SQL<br>
-### 🤔 Procuro oportunidade para aprender mais sobre HTML5, CSS e JavaScript<br>
+### 🤔 Procuro oportunidade para aprender mais sobre HTML5, CSS , JavaScript e C#<br>
 ### 📫 Entre em contato atraves das minhas redes sociais ou Whatsapp<br>
 ### 💬 Sou fluente em ingles, mas não tenho muitas oportunidades de praticar<br>
 
