@@ -23,10 +23,10 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png">
 
-<!--<a target="_blank" href="mailto:">
+<a target="_blank" href="mailto:">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
   </a>]
- -->
+ 
 
   <img align="right" alt="img" height="250" src="https://thumbs.gfycat.com/BlaringHarmlessDiscus-max-1mb.gif">
           
