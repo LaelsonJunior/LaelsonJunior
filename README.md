@@ -14,7 +14,6 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png">
  
-  <img align="right" alt="img" height="250" src="https://thumbs.gfycat.com/BlaringHarmlessDiscus-max-1mb.gif">
           
 </div>
 
