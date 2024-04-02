@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Laelson👋
-### Estou aprendendo HTML5, CSS e JavaScript, mas minha paixão é mais com o SQL
+### Estou aprendendo HTML5, CSS e JavaScript
 
 ### 🔭 No momento estou trabalhando em pojetos pessoais<br>
 ### 🌱 Aprendendo CSS, HTML5, JavaScript e SQL<br>
