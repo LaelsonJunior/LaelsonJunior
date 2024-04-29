@@ -1,9 +1,10 @@
-## Olá, Eu sou o Laelson👋
-### Estou aprendendo HTML5, CSS e JavaScript
+## Olá, Meu nome é Laelson Junior👋
+### Sou um amante da tecnologia, um desenvolvedor Full-Stack que mora em Bertioga, estudo programação desde 2018, e estou sempre disposto a aprender novas ferramentas que me ajudem a mergulhar ainda mais no mundo da tecnologia
+### Estou aprendendo HTML5, SQL, Node.js e JavaScript
 
 ### 🔭 No momento estou trabalhando em pojetos pessoais<br>
-### 🌱 Aprendendo CSS, HTML5, JavaScript e SQL<br>
-### 💬 Sou fluente em ingles, mas não tenho muitas oportunidades de praticar<br>
+### 🌱 Aprendendo HTML5, JavaScript e SQL<br>
+### 💬 Sou fluente em ingles<br>
 
 ##
 <div style="display: inline_block"><br>
